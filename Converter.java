@@ -1,1 +1,1 @@
-vcbcv
+public class Converter {}
